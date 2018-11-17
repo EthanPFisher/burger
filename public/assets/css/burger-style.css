@@ -1,0 +1,19 @@
+
+h1,
+h2,
+label,
+li,
+input,
+button,
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: orangered;
+}
+
+img {
+    width: 150px;
+
+}
